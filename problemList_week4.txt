@@ -1,0 +1,6 @@
+1 - In a paragraph please find:
+    - total number of words
+    - total number of unique words
+    - total number of 'to be' occurrences
+    - number of each 'to be' words
+
