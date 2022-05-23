@@ -1,0 +1,12 @@
+1 - Search different options with __init__.py
+2 - Difference between having __init__.py in a package or not ?
+3 - Draw 9x9 Sudoku table:
+    outer line : 5
+    3x3 lines: 3
+    other line: 1
+    hide turtle
+    highest speed
+
+4 - What do we mean by being 'Monotonic' in a clock?
+5 - Digital clock : using time, turtle modules
+6 - Fill out sudoku table: using random module
