@@ -1,4 +1,4 @@
-# Applied Data Sience in Python
+# Python Programming
 This is soursecode for training and practice of third course in "Data Scientist Path" in DAYCHE Academy.
 
 Please follow @DaycheAcademy for update new repo. 
