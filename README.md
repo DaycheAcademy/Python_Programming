@@ -1,4 +1,6 @@
 # Python Programming
+Instructor: Dr. Mehdi Shokri Zadeh @Mehdi-Zadeh
+
 This is soursecode for training and practice of third course in "Data Scientist Path" in DAYCHE Academy.
 
 Please follow @DaycheAcademy for update new repo. 
