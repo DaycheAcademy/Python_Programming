@@ -1,7 +1,7 @@
-# Applied Data Science in Python
+# Python Programming
 ### Instructor: Dr. Mehdi Shokri Zadeh @Mehdi-Zadeh
 
-This is the sourse code repo for: the 4th course in "Data Scientist Path" at DAYCHE Academy
+This is the sourse code repo for: the 3rd course in "Data Scientist Path" at DAYCHE Academy
 
 Please follow @DaycheAcademy for any updates on this repo or to get information about the course.
 
