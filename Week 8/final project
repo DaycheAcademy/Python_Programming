@@ -1,0 +1,9 @@
+Sudoku Player
+
+1 - functionality to create sudoku grid
+2 - functions to insert numbers at each location
+3 - class / function to generate numbers based on sudoku rule
+4 - eliminate numbers so that remaining numbers illustrate a solvable puzzle
+5 - functions to solve the puzzle
+
+
