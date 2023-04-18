@@ -13,6 +13,3 @@ with open('sample.csv') as csv_file:
         name.append(line[2])
         surname.append(line[3])
         line = csv_file.readline().split(';')
-
-
-
